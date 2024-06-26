@@ -5,7 +5,7 @@ import 'package:fitness_application/model/fitness_exercises.dart';
 import 'package:fitness_application/viewmodels/fitness_exercises_data.dart';
 import 'package:flutter/material.dart';
 
-import '../body_focus_ex_screen.dart';
+import '../fitness/body_focus_ex_screen.dart';
 
 class BodyFocusWidget extends StatelessWidget {
   //final FitnessExercisesModel fitnessExercisesName;

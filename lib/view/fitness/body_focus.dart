@@ -1,6 +1,6 @@
 // ignore_for_file: unused_import
 
-import 'package:fitness_application/view/fitness/widgets/body_focus_widget.dart';
+import 'package:fitness_application/view/widgets/body_focus_widget.dart';
 import 'package:fitness_application/viewmodels/body_focus_data.dart';
 import 'package:flutter/material.dart';
 

@@ -1,6 +1,6 @@
 import 'package:fitness_application/constants/constantsBMI.dart';
-import 'package:fitness_application/view/fitness/widgets/componentsBMI/bottom_buttonBMI.dart';
-import 'package:fitness_application/view/fitness/widgets/componentsBMI/resuableBMI.dart';
+import 'package:fitness_application/view/widgets/componentsBMI/bottom_buttonBMI.dart';
+import 'package:fitness_application/view/widgets/componentsBMI/resuableBMI.dart';
 import 'package:flutter/material.dart';
 
 class ResultsPage extends StatelessWidget {

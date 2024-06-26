@@ -1,11 +1,11 @@
 import 'package:fitness_application/constants/constantsBMI.dart'as constants;
 import 'package:fitness_application/constants/constantsBMI.dart';
-import 'package:fitness_application/view/fitness/caluator_brainBMI.dart';
-import 'package:fitness_application/view/fitness/screensBMI/result_pageBMI.dart';
-import 'package:fitness_application/view/fitness/widgets/componentsBMI/bottom_buttonBMI.dart';
-import 'package:fitness_application/view/fitness/widgets/componentsBMI/icon_contentBMI.dart';
-import 'package:fitness_application/view/fitness/widgets/componentsBMI/resuableBMI.dart';
-import 'package:fitness_application/view/fitness/widgets/componentsBMI/round_icon_buttonBMI.dart';
+import 'package:fitness_application/view/screensBMI/caluator_brainBMI.dart';
+import 'package:fitness_application/view/screensBMI/result_pageBMI.dart';
+import 'package:fitness_application/view/widgets/componentsBMI/bottom_buttonBMI.dart';
+import 'package:fitness_application/view/widgets/componentsBMI/icon_contentBMI.dart';
+import 'package:fitness_application/view/widgets/componentsBMI/resuableBMI.dart';
+import 'package:fitness_application/view/widgets/componentsBMI/round_icon_buttonBMI.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 

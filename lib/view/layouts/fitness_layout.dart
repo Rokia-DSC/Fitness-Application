@@ -2,7 +2,7 @@
 
 import 'package:fitness_application/view/fitness/body_focus.dart';
 import 'package:fitness_application/view/fitness/fitness_home.dart';
-import 'package:fitness_application/view/fitness/screensBMI/input_page1BMI.dart';
+import 'package:fitness_application/view/screensBMI/input_page1BMI.dart';
 import 'package:flutter/material.dart';
 
 class FitnessScreen extends StatefulWidget {
